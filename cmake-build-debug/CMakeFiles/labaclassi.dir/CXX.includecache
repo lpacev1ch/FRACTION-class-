@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/Desktop/prog/Лабы/labaclassi/cmake-build-debug/drob.h
+iostream
+-
+
+/Users/admin/Desktop/prog/Лабы/labaclassi/main.cpp
+iostream
+-
+cmake-build-debug/drob.h
+/Users/admin/Desktop/prog/Лабы/labaclassi/cmake-build-debug/drob.h
+
